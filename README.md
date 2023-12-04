@@ -1,2 +1,2 @@
 # Advent of Code
-Advent of Code Challenge [Advent of Code]("https://adventofcode.com/")
+Advent of Code Challenge [Advent of Code](https://adventofcode.com/)
